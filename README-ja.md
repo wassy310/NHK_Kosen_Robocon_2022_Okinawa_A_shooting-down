@@ -6,4 +6,3 @@
 - OpnCV
 - NumPy
 - PySerial
-- 
