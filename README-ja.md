@@ -1,4 +1,4 @@
-[英語版](https://github.com/wassy310/NHK_2022_Robocon_Okinawa_shooting-down)
+[English](https://github.com/wassy310/NHK_2022_Robocon_Okinawa_shooting-down)
 
 # NHK_2022_Robocon_Okinawa_shooting-down
 ロボコン2022 九州沖縄地区大会にて、沖縄Aチームで使用した撃墜機構のプログラムです。
