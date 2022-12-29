@@ -8,7 +8,7 @@ def main():
     ret, image = camera.read()
     rr = 0   # +-mergin
 
-    Serial port setting
+    # Serial port setting
     ser = serial.Serial("COM7", 9600)
     print(ser)
 
