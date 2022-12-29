@@ -63,7 +63,7 @@ def main():
                 if((270 < x < 370) and (200 < y < 300)):
                     print("center(x,y), radius=", center, ",", radius)
                     print("Go!")
-                    send serial data
+                    # send serial data
                     ser.write(b"@")
                     print(ser.readline())
 
